@@ -37,13 +37,13 @@
         <springdoc.version>2.1.0</springdoc.version>
 
         <pdfbox.version>3.0.3</pdfbox.version>
-        <amazon-s3-encryption-client-java.version>3.1.3</amazon-s3-encryption-client-java.version>
+        <amazon-s3-encryption-client-java.version>4.0.0</amazon-s3-encryption-client-java.version>
         <aws.java.sdk.version>2.20.131</aws.java.sdk.version>
-        <bouncycastle.bcpkix.version>1.78.1</bouncycastle.bcpkix.version>
+        <bouncycastle.bcpkix.version>1.84</bouncycastle.bcpkix.version>
         <commons-compress.version>1.26.0</commons-compress.version>
         <commons-io.version>2.15.1</commons-io.version>
         <commons-text.version>1.12.0</commons-text.version>
-        <guava-version>33.0.0-jre</guava-version>
+        <guava-version>33.7.1-jre</guava-version>
         <wiremock.version>3.9.1</wiremock.version>
         <openfeature.version>1.14.1</openfeature.version>
 
